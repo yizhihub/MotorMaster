@@ -12,3 +12,4 @@ end  ：1. 由于引入了根据扇区切换采样，示波器界面变量命名
 20190819 : 增加M1_SpeedSet变量，用于表示设定速度速度，单位为 RPM。原变量 GlUqSet设定速度范围Q值（0-1）。
 20190819 : just test Modified by Z 
 20180819 : Git test by Lenovo.
+20180819 : Git test by Lenovo for git fetch command.
