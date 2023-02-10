@@ -2547,7 +2547,7 @@
 			<member name="type_fmt" type="string">Q7.24 &lt;-128,128)</member>
 			<member name="bit_shift" type="sint32">0</member>
 			<member name="bit_mask" type="string">no mask (-1)</member>
-			<member name="value_trf" type="CObject_ptr">ObjId3508</member>
+			<member name="value_trf" type="CObject_ptr">ObjId3527</member>
 			<member name="enum_enabled" type="sint32">0</member>
 			<member name="enum_num_always" type="sint32">0</member>
 			<member name="enum_default_val" type="string">unknown</member>
@@ -2581,7 +2581,7 @@
 			<member name="modif_address" type="string"/>
 			<member name="modif_last_addr" type="uint32">0x0</member>
 		</object>
-		<object name="ObjId3508" type="CNumTrfLinAB">
+		<object name="ObjId3527" type="CNumTrfLinAB">
 			<member name="a" type="string">fmScale.speed_n_m</member>
 			<member name="b" type="string">0</member>
 			<member name="var_a" type="CObject_ptr">ObjId0015</member>
